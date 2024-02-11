@@ -1,0 +1,18 @@
+.mainbody__mainbox__card{
+    display: flex;
+    align-items: center;  
+    padding: 1rem;  
+}
+.squareicon{
+    margin-right: 20px;
+    cursor: pointer;
+}
+.mainbody__mainbox__card__usertext{
+    font-family: var(--mainfont-font);
+}
+.trashicon{
+    position: relative;
+    left: 320px;
+    color: rgb(255, 87, 87);
+    cursor: pointer;
+}
